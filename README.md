@@ -1,7 +1,6 @@
 # Apartment Price Prediction Project
 
-This project aims to predict apartment prices based on various features such as location, room type, and host information.
-
+Este projeto visa prever preços de apartamentos com base em vários recursos, como localização, tipo de quarto e informações do anfitrião.
 ## Installation
 
 1. Clone o repositório para sua máquina local:
@@ -18,3 +17,4 @@ cd apartment-price-prediction
 
 pip install -r requirements.txt
 
+4. Descomprima o model.rar onde está o modelo salvo em .pkl
